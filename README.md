@@ -17,4 +17,4 @@ The output will be a ``.tsv`` file made up of 11 columns listing the following i
 10. Length of the word (in $N$ of phonemes)
 11. Position of the fricative in the word ($i^{th}$ phoneme)  
 
-*PS: This is my final assignment for the course **Informatique et phonétique (2024-2025) © [Nicolas Audibert](https://github.com/nicolasaudibert)***
+*PS: This is my final assignment for the course **LYSL042 - Informatique et phonétique (2024-2025) © [Nicolas Audibert](https://github.com/nicolasaudibert)***
